@@ -1,2 +1,1 @@
-# Evento
-An Event Management Bhubaneswar Website
+# An Event Management Bhubaneswar Website
